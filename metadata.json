@@ -1,0 +1,5 @@
+
+{
+  "name": "Local AI Operator",
+  "description": "An interface to an AI agent that takes a user's goal, breaks it down into a plan with executable steps, and simulates the execution to achieve the desired outcome."
+}
